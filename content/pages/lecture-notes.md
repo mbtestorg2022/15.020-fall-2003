@@ -4,27 +4,252 @@ title: Lecture Notes
 uid: 76caf397-2a8a-9578-811b-0a31e8bd49cc
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Course Introduction and Competitive Structure of Telecoms Industry: The Effect of Convergence  {{< br >}}(Telecommunication companies, computer hardware and software companies, and cable operators converge to compete for voice traffic, data traffic, and integration of networks.) |
-| 2 | What Caused the Telecom Crash? Is there Light at the End of the Tunnel? |
-| 3 | The Economics of Networks and Regulation  {{< br >}}(Economies of Scale and Scope, Sunk Costs, Barriers to Entry and Unbundled Network Elements.) |
-| 4 | Regulation, Deregulation and the Telecom Act of 1996  {{< br >}}(The effect of government regulation on the framework for competition.) |
-| 5 | Competition in Local Service  {{< br >}}(Facilities-based competition and regulation-based competition.)  {{< br >}}  {{< br >}}Wireline + Wireless. Will Cellular Replace Residential Wireline Service? |
-| 6 | Competition for Residential Local and Long Distance  {{< br >}}(Bundling of local and long distance services.) |
-| 7 | Competition in Mobile & Wireless Communications  {{< br >}}(Introduction to wireless technologies.)  {{< br >}}  {{< br >}}Competition for Standards and Coverage  {{< br >}}(TDMA, CDMA, GSM. WCDMA, CDMA2000, TD-SCDMA) |
-| 8 | Future Wireless Technology ([PDF]({{< baseurl >}}/resources/lec8_verizon))  {{< br >}}Presentation courtesy of our guest speaker: Dick Lynch, CTO, Verizon Wireless. |
-| 9 | The Direction of Future Competition  {{< br >}}(WiFi, bundling of services (Cable TV, voice, Internet))  {{< br >}}  {{< br >}}Full Service Operators (any-distance service, wireline/wireless, voice, Internet access). Integration of Voice, Data, and Wireless Networks |
-| 10 | Competition in Wireless – Winning Strategies  {{< br >}}(How Nextel's differentiation strategy leads to higher ARPU and lower churn.)  {{< br >}}  {{< br >}}Guest speakers:  {{< br >}}Scott Wiener, Nextel VP  {{< br >}}Brian Toll, 15.020 alum and Nextel Manager, Strategic Pricing & Analysis |
-| 11 | Internet Commerce in an Wireless World  {{< br >}}(A discussion of new technologies that will change how consumers interact with businesses using wireless devices.)  {{< br >}}  {{< br >}}Speaker: Hoss Mohsenzadeh, Aliaswire Inc. |
-| 12 | Entrepreneurs in Telecommunications  {{< br >}}(Do entrepreneurial opportunities still exist in Telecom? How should a new telecom-oriented venture orient its strategy?)  {{< br >}}  {{< br >}}Speaker: Carl Stjernfeldt, Battery Ventures |
-| 13 | Competition in an Industry where the Service Look to be Increasingly like a Commodity with Little Differentiation  {{< br >}}  {{< br >}}Speaker: Carlos Lopez-Abadia, Qwest CIO |
-| 14 | Are Spectrum Auctions a Good Idea?  {{< br >}}(Is spectrum truly scarce and does auctioning it benefit consumers?) |
-| 15 | Future Competition in Telecommunications  {{< br >}}(Competition on the edge of the network.) |
-| 16 | Global Competition: Will Anyone Ever Make Money in China?  {{< br >}}(What are the critical success factors? Can vendors afford to wait it out? What is the impact of different standards in China?)  {{< br >}}  {{< br >}}Speakers: You! Class members from around the world describe competition in their home markets. |
-| 17 | Mobile Handset Market Value Chain  {{< br >}}(Who are the players in the global handset market? How are deals made? Who wields the power? How do new technologies make it into the hands of the consumers?) |
-| 18 | Will Telecom and IT be a Growing Industry or like a "Water Utility?" |
-| 19 | Student Presentations |
-| 20 | Student Presentations |
-| 21 | Student Presentations  {{< br >}}  {{< br >}}Course Evaluations |
-| 22 | Last Day of Class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction and Competitive Structure of Telecoms Industry: The Effect of Convergence  
+(Telecommunication companies, computer hardware and software companies, and cable operators converge to compete for voice traffic, data traffic, and integration of networks.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What Caused the Telecom Crash? Is there Light at the End of the Tunnel?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Economics of Networks and Regulation  
+(Economies of Scale and Scope, Sunk Costs, Barriers to Entry and Unbundled Network Elements.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation, Deregulation and the Telecom Act of 1996  
+(The effect of government regulation on the framework for competition.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Competition in Local Service  
+(Facilities-based competition and regulation-based competition.)  
+  
+Wireline + Wireless. Will Cellular Replace Residential Wireline Service?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Competition for Residential Local and Long Distance  
+(Bundling of local and long distance services.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Competition in Mobile & Wireless Communications  
+(Introduction to wireless technologies.)  
+  
+Competition for Standards and Coverage  
+(TDMA, CDMA, GSM. WCDMA, CDMA2000, TD-SCDMA)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Future Wireless Technology ([PDF]({{< baseurl >}}/resources/lec8_verizon))  
+Presentation courtesy of our guest speaker: Dick Lynch, CTO, Verizon Wireless.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Direction of Future Competition  
+(WiFi, bundling of services (Cable TV, voice, Internet))  
+  
+Full Service Operators (any-distance service, wireline/wireless, voice, Internet access). Integration of Voice, Data, and Wireless Networks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Competition in Wireless – Winning Strategies  
+(How Nextel's differentiation strategy leads to higher ARPU and lower churn.)  
+  
+Guest speakers:  
+Scott Wiener, Nextel VP  
+Brian Toll, 15.020 alum and Nextel Manager, Strategic Pricing & Analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Internet Commerce in an Wireless World  
+(A discussion of new technologies that will change how consumers interact with businesses using wireless devices.)  
+  
+Speaker: Hoss Mohsenzadeh, Aliaswire Inc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurs in Telecommunications  
+(Do entrepreneurial opportunities still exist in Telecom? How should a new telecom-oriented venture orient its strategy?)  
+  
+Speaker: Carl Stjernfeldt, Battery Ventures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Competition in an Industry where the Service Look to be Increasingly like a Commodity with Little Differentiation  
+  
+Speaker: Carlos Lopez-Abadia, Qwest CIO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Are Spectrum Auctions a Good Idea?  
+(Is spectrum truly scarce and does auctioning it benefit consumers?)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Future Competition in Telecommunications  
+(Competition on the edge of the network.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Global Competition: Will Anyone Ever Make Money in China?  
+(What are the critical success factors? Can vendors afford to wait it out? What is the impact of different standards in China?)  
+  
+Speakers: You! Class members from around the world describe competition in their home markets.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Mobile Handset Market Value Chain  
+(Who are the players in the global handset market? How are deals made? Who wields the power? How do new technologies make it into the hands of the consumers?)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Will Telecom and IT be a Growing Industry or like a "Water Utility?"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations  
+  
+Course Evaluations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Last Day of Class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
