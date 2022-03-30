@@ -6,6 +6,7 @@ description: Statement of Thomas J. Sugrue, Chief, Wireless Telecommunications B
   May 13, 1999.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-020-competition-in-telecommunications-fall-2003/4cee92df843b82190e47673459b88614_fcc_sugrue_statement.pdf
 file_type: application/pdf
+parent_uid: f70d3f89-f7e4-abc3-ce43-620bbd000d1b
 resourcetype: Document
 title: Access to Buildings and Facilities by Telecommunications Providers
 uid: 4cee92df-843b-8219-0e47-673459b88614
